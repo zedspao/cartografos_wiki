@@ -5,16 +5,10 @@ O principal assentamento da região é a **Cidade do Ouro**, uma comunidade loca
 
 <font color = "#ba9458">[Histórico de Missões]</font>
 
-› [[Mordecai]] é enviado para mapear a região. 
-
-› O agente envia um mapa incompleto, com toda a porção do **Desfiladeiro** faltando.
-
-› Todo contato com o agente é perdido, e seu paradeiro passa a ser desconhecido.
-
-› Um novo grupo de agentes é enviado para localizar o seu predecessor e terminar seu trabalho.
-
-› O grupo retorna, com a região mapeada, mas sem novas informações do desparecido.
-
-› O agente é declarado morto - e um funeral simbólico é realizado em sua homenagem.
-
+› [[Mordecai]] é enviado para mapear a região. <br>
+› O agente envia um mapa incompleto, com toda a porção do **Desfiladeiro** faltando. <br>
+› Todo contato com o agente é perdido, e seu paradeiro passa a ser desconhecido. <br>
+› Um novo grupo de agentes é enviado para localizar o seu predecessor e terminar seu trabalho. <br>
+› O grupo retorna, com a região mapeada, mas sem novas informações do desparecido. <br>
+› O agente é declarado morto - e um funeral simbólico é realizado em sua homenagem. <br>
 <font color = "#ba9458">[Fim do registro]</font>
