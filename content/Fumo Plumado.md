@@ -11,4 +11,5 @@ O principal assentamento da região é a **Cidade do Ouro**, uma comunidade loca
 › Um novo grupo de agentes é enviado para localizar o seu predecessor e terminar seu trabalho. <br>
 › O grupo retorna, com a região mapeada, mas sem novas informações do desparecido. <br>
 › O agente é declarado morto - e um funeral simbólico é realizado em sua homenagem. <br>
+
 <font color = "#ba9458">[Fim do registro]</font>
