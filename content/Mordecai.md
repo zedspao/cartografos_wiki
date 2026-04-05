@@ -1,3 +1,3 @@
-**Mordecai** é um aviário de plumagem azul claro, sempre sorridente e bem quisto por outros agentes da organização. Sua última missão foi em **Fumo Plumado**, onde desapareceu sem deixar mais rastros. O agente foi dado como morto, após uma missão de recuperação retornar sem mais resultados.
+**Mordecai** é um aviário de plumagem azul claro, sempre sorridente e bem quisto por outros agentes da organização. Sua última missão foi em **[[Fumo Plumado]]**, onde desapareceu sem deixar mais rastros. O agente foi dado como morto, após uma missão de recuperação retornar sem mais resultados.
 
 › Sempre que retornava de uma expedição, compilava os acontecimentos em histórias - que costumavam ser compartilhadas nas folgas entre missões.
