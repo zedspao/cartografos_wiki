@@ -6,6 +6,7 @@ O repositório de todo o conhecimento acumulado de uma certa organização. Dize
 <font color = "#ba9458">[Agentes Descobertos]</font>
 - [[Antúrio Graça]]
 - [[Mordecai]]
+- [[Paula]]
 
 <font color = "#ba9458">[Regiões Exploradas]</font>
 - [[Fumo Plumado]]
